@@ -1,3 +1,4 @@
+# Customer Shopping Behavior Analysis
 ## Project Overview
 
 This project analyzes customer shopping behavior to identify purchasing patterns, customer segments, product performance, and subscription trends. The goal is to transform raw customer shopping data into actionable business insights that can support better marketing, customer retention, and sales decisions.
