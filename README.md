@@ -25,20 +25,20 @@ This project analyzes customer shopping behavior to identify purchasing patterns
 - **Power BI** Interactive dashboard and data visualization
 
 ### Project Workflow
-Raw Dataset
-     ↓
+Raw Dataset 
+     →
 Python / Pandas
-     ↓
+     →
 Exploratory Data Analysis (EDA)
-     ↓
+     →
 Data Cleaning & Transformation
-     ↓
+     →
 SQL Server
-     ↓
+     →
 SQL Data Analysis
-     ↓
+     →
 Power BI Dashboard
-     ↓
+     →
 Business Insights
 
 ## Dashboard
