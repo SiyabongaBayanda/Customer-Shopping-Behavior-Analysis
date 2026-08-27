@@ -51,12 +51,12 @@ The Power BI dashboard contains:
 - Average Review Rating: 3.75
 
 ### Visualizations
-Revenue by Category
-Revenue by Age Group
-Revenue by Gender
-Customer Subscription Status
-Sales by Category
-Sales by Age Group
+- Revenue by Category
+- Revenue by Age Group
+- Revenue by Gender
+- Customer Subscription Status
+- Sales by Category
+- Sales by Age Group
 
 💡 Key Business Insights
 
