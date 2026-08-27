@@ -8,11 +8,11 @@ This project analyzes customer shopping behavior to identify purchasing patterns
 **Link:** [Download here](https://www.kaggle.com/datasets/wardabilal/customer-shopping-behaviour-analysis)
 
 ## Tools Used
-**Python** Data loading, exploration, and cleaning 
-**Pandas** Data manipulation and transformation
-**SQL Server** Data analysis and business queries
-**SQL** Aggregation, segmentation, ranking, and analysis
-**Power BI** Interactive dashboard and data visualization
+-**Python** Data loading, exploration, and cleaning 
+-**Pandas** Data manipulation and transformation
+-**SQL Server** Data analysis and business queries
+-**SQL** Aggregation, segmentation, ranking, and analysis
+-**Power BI** Interactive dashboard and data visualization
 
 ## Power BI Dashboard
 
