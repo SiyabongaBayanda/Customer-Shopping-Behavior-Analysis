@@ -58,7 +58,7 @@ The Power BI dashboard contains:
 - Sales by Category (Column Chart)
 - Sales by Age Group (Bar Chart)
 
-![HR Analytics Dashboard](Sales_Report_Dashboard.png)
+![HR Analytics Dashboard](Customer_Behavior_Dashboard.png)
 
 ## Key Insights
 The analysis helps identify:
