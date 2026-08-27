@@ -39,7 +39,6 @@ SQL Data Analysis
      →
 Power BI Dashboard
      →
-Business Insights
 
 ## Dashboard
 The Power BI dashboard contains:
@@ -58,22 +57,21 @@ The Power BI dashboard contains:
 - Sales by Category
 - Sales by Age Group
 
-💡 Key Business Insights
-
+## Key Insights
 The analysis helps identify:
 
-Total revenue: 1,355,293.71
-Which product categories generate the most revenue
-Which products are most frequently purchased
-How customer age groups contribute to revenue
-The purchasing behavior of repeat customers
-The relationship between subscriptions and repeat purchases
-How frequently customers use discounts
-Differences in spending between shipping types
+- Total revenue: 1,355,293.71
+- Which product categories generate the most revenue
+- Which products are most frequently purchased
+- How customer age groups contribute to revenue
+- The purchasing behavior of repeat customers
+- The relationship between subscriptions and repeat purchases
+- How frequently customers use discounts
+- Differences in spending between shipping types
 
 Note: Specific findings and recommendations are documented in the SQL analysis and Power BI dashboard.
 
-🎯 Business Recommendations
+## Recommendations
 
 Based on the analysis, businesses can use these insights to:
 
