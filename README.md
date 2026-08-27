@@ -20,7 +20,7 @@ This project analyzes customer shopping behavior to identify purchasing patterns
 ## Tools Used
 - **Python** Data loading, exploration, and cleaning 
 - **Pandas** Data manipulation and transformation
-- **SQL Server** Data analysis and business queries
+- **SQL Server** Data analysis and SQL queries
 - **SQL** Aggregation, segmentation, ranking, and analysis
 - **Power BI** Interactive dashboard and data visualization
 
@@ -39,23 +39,24 @@ SQL Data Analysis
      →
 Power BI Dashboard
      →
+Business Insights
 
 ## Dashboard
 The Power BI dashboard contains:
 
 ### KPI Cards
-- Total Revenue: $ 223.08K
+- Total Revenue: $223.08K
 - Total Customers: 39000
 - Average Purchase Amount: $59.76
 - Average Review Rating: 3.75
 
 ### Visualizations
-- Revenue by Category
-- Revenue by Age Group
-- Revenue by Gender
-- Customer Subscription Status
-- Sales by Category
-- Sales by Age Group
+- Revenue by Category (Column Chart)
+- Revenue by Age Group (Bar Chart)
+- Revenue by Gender (Donut Chart)
+- Customer Subscription Status (Donut Chart)
+- Sales by Category (Column Chart)
+- Sales by Age Group (Bar Chart)
 
 ## Key Insights
 The analysis helps identify:
