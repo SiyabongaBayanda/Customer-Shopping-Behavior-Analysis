@@ -45,10 +45,10 @@ Business Insights
 The Power BI dashboard contains:
 
 ### KPI Cards
-Total Revenue: $ 223.08K
-Total Customers: 39000
-Average Purchase Amount: $59.76
-Average Review Rating: 3.75
+- Total Revenue: $ 223.08K
+- Total Customers: 39000
+- Average Purchase Amount: $59.76
+- Average Review Rating: 3.75
 
 ### Visualizations
 Revenue by Category
