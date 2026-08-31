@@ -63,13 +63,13 @@ The Power BI dashboard contains:
 ## Key Insights
 The analysis helps identify:
 
-- Clothing and accessories generated the most revenue 76%
-- Gloves, sandals, boots, hat and handbag are the 5 products with the highest average review rating
-- Express shopping has 60 average purchase amount and Standard shipping has 58
-- Non-subscribers generated more revenue and have higher repeat purchase
-- Products with the highest percentage of purchases with discount applied include hat, coat, sneakers, sweater and pants
-- Customer segment; Loyal 80%, Returning 18% and New 2%
-- Young Adults and middle-aged age groups contributed more revenue
+- Clothing and Accessories were the top revenue-generating categories, contributing 76% of total revenue, highlighting their importance to overall sales performance.
+- Gloves, Sandals, Boots, Hats, and Handbags received the highest average customer review ratings, indicating strong customer satisfaction with these products.
+- Customers using Express Shipping had a slightly higher average purchase amount (60) compared with Standard Shipping (58), suggesting that customers who spend more may be somewhat more likely to choose faster delivery.
+- Non-subscribers generated more revenue and had a higher number of repeat purchases than subscribers, suggesting that subscription status was not strongly associated with higher customer spending or repeat purchasing in this dataset.
+- Hats, Coats, Sneakers, Sweaters, and Pants had the highest percentage of purchases made with discounts, indicating that promotions were particularly common for these products.
+- Loyal customers represented 80% of the customer base, followed by Returning customers at 18% and New customers at 2%, indicating a highly established customer base with relatively few new customers.
+- Young Adults and Middle-Aged customers contributed the largest shares of revenue, making these age groups important target segments for marketing and customer engagement strategies
 
 Note: Specific findings and recommendations are documented in the SQL analysis and Power BI dashboard.
 
