@@ -63,8 +63,7 @@ The Power BI dashboard contains:
 ## Key Insights
 The analysis helps identify:
 
-- Total revenue: 1,355,293.71
-- Which product categories generate the most revenue
+- Clothing and accessories generated the most revenue 76%
 - Which products are most frequently purchased
 - How customer age groups contribute to revenue
 - The purchasing behavior of repeat customers
