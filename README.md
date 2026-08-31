@@ -65,7 +65,7 @@ The analysis helps identify:
 
 - Clothing and accessories generated the most revenue 76%
 - Gloves, sandals, boots, hat and handbag are the 5 products with the highest average review rating
-- Express shopping has 60 average purchase amount and standard has 58
+- Express shopping has 60 average purchase amount and Standard shipping has 58
 - Non-subscribers generated more revenue and have higher repeat purchase
 - Products with the highest percentage of purchases with discount applied include hat, coat, sneakers, sweater and pants
 - Customer segment; Loyal 80%, Returning 18% and New 2%
@@ -75,7 +75,7 @@ Note: Specific findings and recommendations are documented in the SQL analysis a
 
 ## Recommendations
 
-- Target Loyal customers and express users
+- Target Loyal customers and express shipping users
 - Develop retention strategies for repeat customers
 - Optimize discount and promotional campaigns for Loyal customers
 - Focus inventory on high-performing products
