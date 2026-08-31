@@ -75,8 +75,8 @@ Note: Specific findings and recommendations are documented in the SQL analysis a
 
 ## Recommendations
 
-- Target Loyal customers and express shipping users
-- Develop retention strategies for repeat customers
-- Optimize discount and promotional campaigns for Loyal customers
-- Focus inventory on high-performing products
-- Improve subscription by promoting exclusive benefits for subscribers
+- Prioritize Loyal customers and Express Shipping users with targeted offers and personalized marketing campaigns to strengthen engagement and maximize customer value.
+- Develop customer retention strategies for repeat and Loyal customers, such as personalized recommendations, loyalty rewards, and exclusive offers.
+- Optimize discount and promotional campaigns by focusing promotions on high-performing products and customer segments where discounts are most likely to drive additional purchases.
+- Maintain sufficient inventory of high-performing products to meet customer demand and reduce the risk of stock shortages.
+- Increase subscription adoption by promoting exclusive subscriber benefits, such as special discounts, early access to products, loyalty rewards, and enhanced shopping benefits.
