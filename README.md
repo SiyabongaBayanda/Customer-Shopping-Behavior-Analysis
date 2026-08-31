@@ -75,8 +75,8 @@ Note: Specific findings and recommendations are documented in the SQL analysis a
 
 ## Recommendations
 
-Target Loyal customer segments and express users
-Develop retention strategies for repeat customers
-Optimize discount and promotional campaigns for Loyal customers
-Focus inventory on high-performing products
-Improve subscription by promoting exclusive benefits for subscribers
+- Target Loyal customer segments and express users
+- Develop retention strategies for repeat customers
+- Optimize discount and promotional campaigns for Loyal customers
+- Focus inventory on high-performing products
+- Improve subscription by promoting exclusive benefits for subscribers
