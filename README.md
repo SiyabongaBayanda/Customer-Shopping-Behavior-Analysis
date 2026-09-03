@@ -56,7 +56,8 @@ Power BI Dashboard
      →
 Business Insights
 
-[View SQL Queries](SQL_Store_Sales_Analysis.sql)
+[View Python](Customer_Behavior.sql)
+[View SQL Queries](Customer_Behavior.sql)
 
 ## Dashboard
 
@@ -83,8 +84,6 @@ Business Insights
 - Customer Subscription Status (Donut Chart)
 - Sales by Category (Column Chart)
 - Sales by Age Group (Bar Chart)
-
-
 
 ## Key Insights
 
