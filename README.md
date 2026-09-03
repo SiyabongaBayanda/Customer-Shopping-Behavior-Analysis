@@ -96,8 +96,9 @@ Business Insights
 - Loyal customers represented 80% of the customer base, while New customers accounted for only 2%, indicating a highly established customer base but a relatively small inflow of new customers. This suggests    an opportunity to strengthen customer acquisition while maintaining loyalty among existing customers.
 - Five products received the highest average customer review ratings, indicating strong customer satisfaction with these products.
 - Customers using Express Shipping had a slightly higher average purchase amount ($60 vs. $58), indicating a modest association between higher purchase value and express delivery preference.
-- Subscription status did not correspond with higher customer spending in this dataset. Non-subscribers generated more total revenue and recorded more repeat purchases than subscribers, suggesting that the      current subscription offering may not be sufficiently compelling to drive higher customer value.
+- Subscription status did not correspond with higher customer spending in this dataset. Non-subscribers generated more total revenue and recorded more repeat purchases than subscribers, suggesting that the     current subscription offering may not be sufficiently compelling to drive higher customer value.
 - Five products showed the highest discount usage, providing an opportunity to evaluate promotion effectiveness.
+- Fall generated the highest revenue, contributing X% of total sales, indicating stronger customer purchasing activity during the season and an opportunity to increase inventory and promotional planning ahead of peak demand
 - Young Adults and Middle-Aged customers contributed the largest shares of revenue, making them important target segments for marketing and customer engagement strategies
 
 Note: Specific findings and recommendations are documented in the SQL analysis and Power BI dashboard.
