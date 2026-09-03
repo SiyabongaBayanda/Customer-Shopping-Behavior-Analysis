@@ -56,6 +56,8 @@ Power BI Dashboard
      →
 Business Insights
 
+[View SQL Queries](SQL_Store_Sales_Analysis.sql)
+
 ## Dashboard
 
 ![HR Analytics Dashboard](Customer_Behavior_Dashboard.png)
