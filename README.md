@@ -1,6 +1,10 @@
 # Customer Shopping Behavior Analysis
 ## Project Overview
-This project analyzes customer shopping behavior to identify purchasing patterns, customer segments, product performance, and subscription trends. The goal is to transform raw customer shopping data into actionable business insights that can support better marketing, customer retention, and sales decisions.
+This project analyzes customer shopping behavior to identify purchasing patterns, customer segments, product performance, and subscription trends.
+
+### Objective 
+To transform raw customer shopping data into actionable business insights that can support better marketing, customer retention,
+and sales decisions using Python/Pandas and SQL, and developed an interactive Power BI dashboard.
 
 ## Data Source
 **Source:** Kaggle  
