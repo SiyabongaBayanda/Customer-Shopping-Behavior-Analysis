@@ -16,13 +16,28 @@ This project analyzes customer shopping behavior to identify purchasing patterns
 6. Which 5 products have the highest percentage of purchases with discount applied?
 7. Segment customers into New, Returning and Loyal based on their total number of previous purchases and show the count of each segment.
 8. What are the top 3 most purchased products within each category?
+
+## Skills Demonstrated
+
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- Python & Pandas
+- SQL Data Analysis
+- Customer Segmentation
+- Customer Behavior Analysis
+- Aggregation & KPI Development
+- Ranking & Window Functions
+- Power BI Dashboard Development
+- Business Intelligence
+- Data Visualization
+- Business Insights & Recommendations
    
 ## Tools Used
-- **Python** Data loading, exploration, and cleaning 
+- **Python** Data loading, EDA and preprocessing
 - **Pandas** Data manipulation and transformation
-- **SQL Server** Data analysis and SQL queries
+- **SQL Server** Data storage and querying
 - **SQL** Aggregation, segmentation, ranking, and analysis
-- **Power BI** Interactive dashboard and data visualization
+- **Power BI** Data modeling, visualization and dashboard development
 
 ### Project Workflow
 Raw Dataset 
@@ -42,13 +57,22 @@ Power BI Dashboard
 Business Insights
 
 ## Dashboard
-The Power BI dashboard contains:
+
+![HR Analytics Dashboard](Customer_Behavior_Dashboard.png)
 
 ### KPI Cards
 - Total Revenue: $223.08K
 - Total Customers: 39K
 - Average Purchase Amount: $59.76
 - Average Review Rating: 3.75
+
+### Dashboard Analysis
+
+- Revenue Performance – category, gender and age-group revenue contribution
+- Customer Behavior – subscription and customer-segment distribution
+- Product Performance – top-rated and frequently purchased products
+- Promotion Analysis – discount adoption across products
+- Shipping Behavior – comparison of standard vs express customer spending
 
 ### Visualizations
 - Revenue by Category (Column Chart)
@@ -58,17 +82,16 @@ The Power BI dashboard contains:
 - Sales by Category (Column Chart)
 - Sales by Age Group (Bar Chart)
 
-![HR Analytics Dashboard](Customer_Behavior_Dashboard.png)
+
 
 ## Key Insights
-The analysis helps identify:
 
-- Clothing and Accessories were the top revenue-generating categories, contributing 76% of total revenue, highlighting their importance to overall sales performance.
-- Gloves, Sandals, Boots, Hats, and Handbags received the highest average customer review ratings, indicating strong customer satisfaction with these products.
-- Customers using Express Shipping had a slightly higher average purchase amount (60) compared with Standard Shipping (58), suggesting that customers who spend more may be somewhat more likely to choose faster delivery.
-- Non-subscribers generated more revenue and had a higher number of repeat purchases than subscribers, suggesting that subscription status was not strongly associated with higher customer spending or repeat purchasing in this dataset.
-- Hats, Coats, Sneakers, Sweaters, and Pants had the highest percentage of purchases made with discounts, indicating that promotions were particularly common for these products.
-- Loyal customers represented 80% of the customer base, followed by Returning customers at 18% and New customers at 2%, indicating a highly established customer base with relatively few new customers.
+- Clothing and Accessories generated 76% of total revenue, making them the primary drivers of overall sales and key categories for inventory and promotional planning.
+- Loyal customers represented 80% of the customer base, while New customers accounted for only 2%, indicating a highly established customer base but a relatively small inflow of new customers. This suggests    an opportunity to strengthen customer acquisition while maintaining loyalty among existing customers.
+-  Five products received the highest average customer review ratings, indicating strong customer satisfaction with these products.
+- Customers using Express Shipping had a slightly higher average purchase amount ($60 vs. $58), indicating a modest association between higher purchase value and express delivery preference.
+- Subscription status did not correspond with higher customer spending in this dataset. Non-subscribers generated more total revenue and recorded more repeat purchases than subscribers, suggesting that the      current subscription offering may not be sufficiently compelling to drive higher customer value.
+- Five products showed the highest discount usage, providing an opportunity to evaluate promotion effectiveness.
 - Young Adults and Middle-Aged customers contributed the largest shares of revenue, making these age groups important target segments for marketing and customer engagement strategies
 
 Note: Specific findings and recommendations are documented in the SQL analysis and Power BI dashboard.
@@ -79,4 +102,5 @@ Note: Specific findings and recommendations are documented in the SQL analysis a
 - Develop customer retention strategies for repeat and Loyal customers, such as personalized recommendations, loyalty rewards, and exclusive offers.
 - Optimize discount and promotional campaigns by focusing promotions on high-performing products and customer segments where discounts are most likely to drive additional purchases.
 - Maintain sufficient inventory of high-performing products to meet customer demand and reduce the risk of stock shortages.
-- Increase subscription adoption by promoting exclusive subscriber benefits, such as special discounts, early access to products, loyalty rewards, and enhanced shopping benefits.
+- Evaluate subscription benefits, pricing, and incentives to determine why repeat customers are not converting to subscribers.
+- Promote exclusive subscriber benefits, such as special discounts, early access to products, loyalty rewards, and enhanced shopping benefits.
