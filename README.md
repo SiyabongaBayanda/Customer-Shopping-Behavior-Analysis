@@ -56,7 +56,8 @@ Power BI Dashboard
      →
 Business Insights
 
-[View Python](Customer_Behavior.sql)
+[View Python Pandas](Customer Shopping Behavior.ipynb)
+
 [View SQL Queries](Customer_Behavior.sql)
 
 ## Dashboard
