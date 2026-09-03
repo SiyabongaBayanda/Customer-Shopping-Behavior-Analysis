@@ -104,3 +104,7 @@ Note: Specific findings and recommendations are documented in the SQL analysis a
 - Maintain sufficient inventory of high-performing products to meet customer demand and reduce the risk of stock shortages.
 - Evaluate subscription benefits, pricing, and incentives to determine why repeat customers are not converting to subscribers.
 - Promote exclusive subscriber benefits, such as special discounts, early access to products, loyalty rewards, and enhanced shopping benefits.
+
+  ## Conclusion
+  
+This analysis demonstrates how Python, SQL and Power BI can be used to transform customer shopping data into actionable business insights. The analysis identified key revenue-driving categories, customer segments, purchasing behaviors, discount patterns and subscription trends. The findings highlight opportunities to strengthen customer acquisition, retain high-value customers, optimize promotional strategies and improve subscription adoption
