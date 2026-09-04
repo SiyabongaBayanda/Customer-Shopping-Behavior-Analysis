@@ -69,7 +69,7 @@ Business Insights
 ![HR Analytics Dashboard](Customer_Behavior_Dashboard.png)
 
 ### KPI Cards
-- Total Revenue: $223.08K
+- Total Revenue: $223K
 - Total Customers: 39K
 - Average Purchase Amount: $59.76
 - Average Review Rating: 3.75
