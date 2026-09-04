@@ -76,7 +76,7 @@ Business Insights
 
 ### Dashboard Analysis
 
-- Revenue Performance – category, gender and age-group revenue contribution
+- Revenue Performance – category, gender, age-group and season revenue contribution
 - Customer Behavior – subscription and customer-segment distribution
 - Product Performance – top-rated and frequently purchased products
 - Promotion Analysis – discount adoption across products
@@ -111,6 +111,7 @@ Note: Specific findings and recommendations are documented in the SQL analysis a
 - Maintain sufficient inventory of high-performing products to meet customer demand and reduce the risk of stock shortages.
 - Evaluate subscription benefits, pricing, and incentives to determine why repeat customers are not converting to subscribers.
 - Promote exclusive subscriber benefits, such as special discounts, early access to products, loyalty rewards, and enhanced shopping benefits.
+- Build pipeline aggressively in Summer to capitalize on Fall demand. 
 
 ## Conclusion
   
