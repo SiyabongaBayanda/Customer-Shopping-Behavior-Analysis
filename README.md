@@ -70,7 +70,7 @@ Business Insights
 
 ### KPI Cards
 - Total Revenue: $223K
-- Total Customers: 39K
+- Total Customers: 3.9K
 - Average Purchase Amount: $59.76
 - Average Review Rating: 3.75
 
